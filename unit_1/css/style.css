@@ -1,7 +1,14 @@
-body {
-    background-color: blue;
+body	{
+	background: url("/iceland.jpg");
+	background-size: cover;
+
 }
 
-h1, p, ul {
-    color: yellow;
+h1	{
+
+	font-size: 72px;
+	font-weight: bold;
+	color: #2B2118;
+
 }
+
