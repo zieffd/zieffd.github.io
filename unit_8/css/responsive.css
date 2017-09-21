@@ -1,0 +1,62 @@
+@media only screen and (max-width:699px) {
+
+    #nav  {
+      float: none;
+      width: auto;
+    }
+
+    h1 {
+      font-size: 3.25em;
+
+    }
+
+    h2, h3 {
+
+      font-size: 2em;
+      padding: 0 .25em 0 .25em;
+    }
+
+    p, table  {
+  font-size: .75em;
+  line-height:1em;
+  font-family: 'Raleway', sans-serif;
+
+    }
+
+    .video {
+      float: none;
+      width: auto;
+      width: 75%;
+      margin-left:auto; 
+      margin-right:auto;
+
+    }
+
+    #about p {
+
+      float: none;
+      width: auto;
+
+    }
+
+    #about div {
+
+      max-width:699px;
+      margin:auto;
+      float: none;
+}
+
+    #about img {
+
+      float: none;
+      width: auto;
+    }
+
+    #footer {
+
+      font-size: 2em;
+    }
+}
+}
+
+
