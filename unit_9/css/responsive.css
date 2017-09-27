@@ -1,0 +1,77 @@
+@media only screen and (max-width:699px) {
+
+    #nav  {
+      float: none;
+      width: auto;
+    }
+
+    h1 {
+      font-size: 3.5em;
+
+    }
+
+    h2, h3 {
+
+      font-size: 2.25em;
+      padding: 0 .25em 0 .25em;
+    }
+
+    p, table  {
+  font-size: .75em;
+  line-height:1em;
+  font-family: 'Raleway', sans-serif;
+
+    }
+
+    .video {
+      float: none;
+      width: auto;
+      width: 90%;
+      margin-left:auto; 
+      margin-right:auto;
+      padding: 1em;
+
+    }
+
+    #about p {
+
+      float: none;
+      width: auto;
+
+    }
+
+    #about div {
+
+      max-width:699px;
+      margin:auto;
+      float: none;
+}
+
+    #about img {
+
+      float: none;
+      width: auto;
+      max-width: 100%;
+      padding: 0em 0em 1em 0em;
+      margin-left:auto; 
+      margin-right:auto;
+    }
+
+    #footer {
+
+      font-size: 2em;
+    }
+
+    #tour td {
+      font-size: 1.5em;
+      padding: 1em .5em;
+      line-height: 1.25em;
+    }
+
+    #tour p {
+      font-size: 1em;
+    }
+}
+}
+
+
